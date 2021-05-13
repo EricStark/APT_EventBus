@@ -1,0 +1,2 @@
+include ':app', ':apt_complier', ':apt_annotations'
+rootProject.name='APTApplication'
